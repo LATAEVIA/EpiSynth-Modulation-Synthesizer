@@ -38,13 +38,17 @@ You will need the following properly installed on your computer.
 * Press Play on the Processing Text Editor
 
 ## How To Use Spotty Synth
-
-* Use your computers Keyboard to play notes 
+* Use your computers Keyboard to play notes
 * Key Map:
+
+![Key Map](keyMap.jpg)
 * Click the mouse to activate the pen tool
 * "Q" will clear the canvas
-* "1" will add Psychedelic Ellipses
-## Support and contact details
+* "1" will add Psychedelic Ellipses:
+
+![Set Up](spottySetUp.png)
+![Pen](pen.png)
+![Ellipses](spottypsych.png)
 
 _Please report and issues or bugs via email (hello@lataeviaberry.com)._
 
