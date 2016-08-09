@@ -1,6 +1,6 @@
 # _Modulation Synthesizer_
 
-#### _Audio/Visual synthesis and modulation Java Application built with Processing and Beads., 5/20/2016_
+#### _Audio/Visual synthesis and modulation Java Application built with Processing IDE and Beads Library.., 5/20/2016_
 
 #### By _**Ryan Carlile, LaTaevia Berry, Joseph Arnstein, DJ Roychoudhury**_
 
