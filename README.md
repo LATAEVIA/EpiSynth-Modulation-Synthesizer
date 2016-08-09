@@ -1,6 +1,6 @@
 # _Modulation Synthesizer_
 
-#### _Java program focused on Audio/Visual synthesis and modulation, 5/20/2016_
+#### _Audio/Visual synthesis and modulation Java Application built with Processing and Beads., 5/20/2016_
 
 #### By _**Ryan Carlile, LaTaevia Berry, Joseph Arnstein, DJ Roychoudhury**_
 
@@ -13,6 +13,8 @@ _Processing is used for the IDE to visually and sonically code the synthesizer_
 _"Processing is an open source programming language and integrated development environment (IDE) built for the electronic arts, new media art, and visual design communities with the purpose of teaching the fundamentals of computer programming in a visual context, and to serve as the foundation for electronic sketchbooks." [-wikipedia](https://en.wikipedia.org/wiki/Processing_(programming_language))_
 
 _The beads audio library was used to build all of the audio objects. [-The Beads Project](http://www.beadsproject.net/)_
+
+## Prerequisites
 
 You will need the following properly installed on your computer.
 
