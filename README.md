@@ -14,6 +14,10 @@ _"Processing is an open source programming language and integrated development e
 
 _The beads audio library was used to build all of the audio objects. [-The Beads Project](http://www.beadsproject.net/)_
 
+You will need the following properly installed on your computer.
+
+* [Gradle](https://gradle.org/gradle-download/)
+* [Processing IDE] (https://processing.org/download/)
 
 ## Setup/Installation Requirements For the Web Application
 
@@ -24,13 +28,15 @@ _The beads audio library was used to build all of the audio objects. [-The Beads
 * Enter the following in address bar: localhost:4567
 
 ## Setup/Installation Requirements For the SpottySynth Synthesizer
-* Download the Processing IDE so that you can run the 'sketch' [-Get Processing](https://processing.org/download/)
+
 * Once you have Processing 3 installed, open the program. It should start with a blank new file, or 'sketch'
 * In the tool bar, navigate to Sketch>Import Library>Add Library 
 * Find the Beads Library and Install
 * Copy the code from SpottySynth.pde and paste it to the blank 'sketch'.
 * Press Play on the Processing Text Editor
+
 ## How To Use Spotty Synth
+
 * Use your computers Keyboard to play notes 
 * Key Map:
 * Click the mouse to activate the pen tool
@@ -38,7 +44,7 @@ _The beads audio library was used to build all of the audio objects. [-The Beads
 * "1" will add Psychedelic Ellipses
 ## Support and contact details
 
-_Please report and issues or bugs in the Epicodus forums (http://forum.epicodus.com/top/all) or send us an email._
+_Please report and issues or bugs via email (hello@lataeviaberry.com)._
 
 ## Technologies Used
 
@@ -49,27 +55,6 @@ _Java, Velocity, Spark, JUnit, Bootstrap, CSS, Google Fonts, Gradle, Processing3
 * MIT License
 
 Copyright (c) [2016] [Ryan Carlile, LaTaevia Berry, Joseph Arnstein, DJ Roychoudhury]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*
-
-
-## Support and contact details
-
-_Please report and issues or bugs in the Epicodus forums (http://forum.epicodus.com/top/all) or send me an email._
-
-## Technologies Used
-
-_Java, Velocity, Spark, JUnit, Bootstrap, CSS, Google Fonts, Gradle_
-
-### License
-
-* MIT License
-
-Copyright (c) [2016] [DJ Roychoudhury]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
